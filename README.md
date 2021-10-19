@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sofukanal
+- 👀 I’m interested in Python, Game development in Unity, Arduino, and Full stack web development.
+- 🌱 I’m currently learning Full stack web development.
+- 💞️ My current hobby is being a dj.
